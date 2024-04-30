@@ -1,0 +1,9 @@
+3
+běh 100
+skok vysoký
+běh 500
+6 Adam Jirák
+15 Tomáš Heger
+7 Jidra Čepelka
+3 Jan Erny
+12 Fanda Trop
